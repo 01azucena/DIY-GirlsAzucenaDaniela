@@ -9,7 +9,7 @@
 // The secret API key lives on the proxy server, never in
 // this file, so nobody using the page can see it.
 // ==============================================
-const PROXY_URL = "https://diy-girls-bot.jimenezmarisol8884.workers.dev";
+const PROXY_URL = "https://diybot.programs-813.workers.dev/";
 
 let conversationHistory = [];
 
